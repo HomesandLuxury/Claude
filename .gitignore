@@ -1,0 +1,5 @@
+.env
+node_modules/
+seo_data/backlinks_tracker.xlsx
+seo_reports/
+*.log

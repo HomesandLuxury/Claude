@@ -1,0 +1,21 @@
+
+════════════════════════════════════════════════════════════
+2026-04-14T05:16:11.245Z — HEALTH CHECK
+════════════════════════════════════════════════════════════
+  Site Up    : true
+  API Up     : true
+  Load Time  : 916ms
+  404 Errors : None
+  Issues     : None
+
+════════════════════════════════════════════════════════════
+2026-04-14T05:17:26.832Z — HEALTH CHECK
+════════════════════════════════════════════════════════════
+  Site Up    : true
+  API Up     : true
+  Load Time  : 819ms
+  404 Errors : None
+  Issues     : Post check failed: WP GET posts?per_page=10&status=publish&_fields=title,link → 502: <html><body><h1>502 Bad Gateway</h1>
+The server returned an invalid or incomplete response.
+</body></html>
+

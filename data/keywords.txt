@@ -1,0 +1,123 @@
+# ============================================================
+# HOMESANDLUXURY.COM — MASTER KEYWORD QUEUE
+# Ordered by search volume (high → low) within each category
+# Script reads top-to-bottom and skips already-published keywords
+# ============================================================
+
+# CATEGORY: Home Decor Ideas
+Apartment Living Room Ideas
+How to decorate a small living room
+Moroccan Home Decor
+French Country Living Room ideas
+Japanese Bedroom Ideas
+Parisian Bathroom Ideas
+Small Home Exterior Ideas
+Dark and Moody Bathrooms
+Dark and Moody Bedrooms
+Dark and Moody Living Rooms
+Interior design ideas for small condo spaces
+Rustic Farmhouse Decor for cozy homes
+Retro 70s Style Home Decor
+Retro Shower Curtains Bathroom Decor
+Bar Log Cabin Ideas
+70s Bedroom Decor
+kid room ideas for small spaces
+Bedroom Interior Decor Ideas
+Mid-Century Modern Entryway Ideas
+Parisian Bedroom Style Guide
+
+# CATEGORY: Wall Decor & Art
+Botanical Prints
+Farmhouse Wall Art
+Nursery Name Signs
+horse Wall Art
+Bible Verse Art
+Scripture Art
+Family Name Signs
+carved wood wall art
+Vintage Circus Posters
+Vintage French Posters
+Coastal Art Prints
+graffiti art ideas
+Modern Farmhouse Wall Art
+buffalo Wall Art
+Farmhouse Bathroom Mirrors
+antique botanical prints
+Large Tapestry Wall Art
+modern western Wall Art
+Winter Art ideas
+texas longhorn Wall Art
+Autumn Prints
+Are Floating Shelves Still a Trend
+Old World Maps Posters
+arched mirrors ideas
+Gold Round Mirrors ideas
+Still Life Art ideas
+antique bird prints
+How to Stagger Floating Shelves
+Exotic Indian Wallcoverings
+vintage automobile posters
+black angus Wall Art
+Pichwai Artwork ideas
+South Asian Inspired Wallpaper
+Farmhouse Rustic Wall Decor ideas
+rustic wall decor ideas for home
+Farmhouse Cathedral Arches ideas
+Black Metal Wall ideas
+Modern Rustic Wall Mirrors
+Frame TV Art ideas
+Custom Home Sweet Home
+Are Floating Shelves Still a Trend in Modern Design?
+Can Floating Shelves Hold Books?
+How High to Hang a Mirror in an Entryway
+What Mirrors Are in Style Now
+Stylish Entryway Mirror Ideas
+Antique Mirrors design ideas
+
+# CATEGORY: Luxury Living & Lifestyle
+Coffee Table Trays
+mid century modern floor lamps
+Coastal Coffee Tables
+What is an Accent Table
+Desk Ideas for Small Spaces
+Sideboard Decor Ideas
+Small Entryway Tables
+Different Types of Desks
+Nightstand Ideas for Small Spaces
+Floating TV Stand Ideas
+Accent Tables for bedroom
+What is the bench at the end of a bed called?
+Rustic Tabletop Decor
+dining room benches design ideas
+How to Match an Ottoman to a Chair
+How to Choose the Right Vanity Mirror
+What is a bathroom vanity and a vanity mirror?
+What bathroom vanity depth means
+How to Choose the Ideal Nightstand Size
+TV Stand Ideas for Small Living Rooms
+What is Verdigris?
+
+# CATEGORY: Gardening & Outdoor
+Apartment Gardening
+Chicken Coop Kits
+Rustic Garden Decor ideas
+Rustic Garden planters
+Rustic Garden pots
+Wrought Iron Flower Plant Stands
+Wrought Iron Garden Fence Gates
+Decorative Metal Steel Entry Gates
+Wall Basket Planters ideas
+Unusual Wooden Ladders
+
+# CATEGORY: Kitchen Decor & Accessories
+Mushroom Kitchen Cabinets
+Dining Centerpiece design ideas
+
+# CATEGORY: Festival Decor Ideas
+christmas art ideas
+Candle Holders design ideas
+
+# CATEGORY: Product Reviews
+egyptian Statues
+Coastal Floor Lamps
+egyptian Cartouches
