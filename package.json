@@ -16,8 +16,13 @@
     "cheerio": "^1.0.0",
     "dotenv": "^16.4.5",
     "form-data": "^4.0.0",
+    "libsodium-wrappers": "^0.8.3",
     "node-cron": "^3.0.3",
     "node-fetch": "^2.7.0",
     "playwright": "^1.59.1"
+  },
+  "devDependencies": {
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
   }
 }
