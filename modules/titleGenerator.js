@@ -35,7 +35,7 @@ Return ONLY this JSON:
   "selected": "The single best title here"
 }`;
 
-  const raw  = await callAI(prompt, { temperature: 0.82, maxTokens: 1200 });
+  const raw  = await callAI(prompt, { temperature: 0.82, maxTokens: 5000 });
   const data = JSON.parse(raw);
 
   data.selected = data.selected
